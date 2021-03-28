@@ -38,14 +38,13 @@ h1 {
 }
 
 .img{
-    width: 50%;
+    width: 49%;
     display: flex;
     justify-content: center;
+    margin-bottom: 23px;
 }
 
-
 img{
-    padding: 10px;
     border-radius: 24px;
 }
 
